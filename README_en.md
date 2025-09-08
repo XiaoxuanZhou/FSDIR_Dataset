@@ -1,23 +1,25 @@
 # Multi-Scene Infrared Remote Sensing Dataset
 
 ## 📖 Introduction
-This dataset contains **multi-scene infrared remote sensing data**, with a total size of about **150 GB**.  
+This dataset contains **A Multi-Target Dynamic Infrared Remote Sensing Dataset Fusing Remote Sensing Data and Physical Modeling*, with a total size of about **150 GB**.  
 It is mainly designed for:  
 - Detection and tracking of aircraft/ship targets in dynamic scenes  
 
-Each scene is stored in a `.rar` archive for easy download and management.  
-The dataset has been permanently archived on [Zenodo](https://zenodo.org/uploads/17075534) and [BaiduNetdisk](), and is assigned a DOI for citation.  
+- Each scene is stored in a `.rar` archive for easy download and management.  
+- The dataset has been permanently archived on [Zenodo](https://zenodo.org/uploads/17075534) and [BaiduNetdisk](), and is assigned a DOI for citation.  
 
 ---
 
 ## 📂 Dataset Contents
 The dataset consists of the following scenes:
+```bash
 Dataset/
 │
-├── Scene01_Aircraft.rar # Shanghai, China: includes cloud, urban, and ocean scenes
-├── Scene02_Ship.rar # Eastern Taiwan, China: includes ocean, cloud, and grassland scenes
-├── Scene03_Cloud.rar # Western China: includes forest, grassland, and snow mountain scenes
-└── Scene04_Persian Gulf.rar # Persian Gulf region: includes ocean, desert, and urban scenes
+├── Scene1_Shanghai.rar # Shanghai, China: includes cloud, urban, and ocean scenes
+├── Scene2_Taiwan.rar # Eastern Taiwan, China: includes ocean, cloud, and grassland scenes
+├── Scene3_Western-China.rar # Western China: includes forest, grassland, and snow mountain scenes
+└── Scene4_Persian-Gulf.rar # Persian Gulf region: includes ocean, desert, and urban scenes
+```bash
 
 - **File format**: 16-bit TIFF image sequences  
 - **Temporal resolution**: 0.2 s/frame  
@@ -27,15 +29,18 @@ Dataset/
 ---
 
 ## 🔗 Download
-The complete dataset can be downloaded from **Zenodo** or **Baidu Cloud**:  
+The complete dataset can be downloaded from **Zenodo** or **BaiduNetdisk**:  
 
-- DOI: [10.5281/zenodo.17075534]( )  
+- Zenodo
+- BaiduNetdisk
 - Each `.rar` file can be downloaded individually.  
 
 Example commands (Linux/macOS):
 ```bash
-wget https://zenodo.org/record/xxxxx/files/Scene01_Aircraft.rar
-wget https://zenodo.org/record/xxxxx/files/Scene02_Ship.rar
+wget https://zenodo.org/record/xxxxx/files/Scene1_Shanghai.rar
+wget https://zenodo.org/record/xxxxx/files/Scene2_Taiwan.rar
+wget https://zenodo.org/record/xxxxx/files/Scene3_Western-China.rar
+wget https://zenodo.org/record/xxxxx/files/Scene4_Persian-Gulf.rar
 ```
 ---
 ## 📑 Citation
@@ -43,3 +48,5 @@ wget https://zenodo.org/record/xxxxx/files/Scene02_Ship.rar
 
 ---
 ## 📬 Contact
+Author: ZHOU Xiaoxuan (Shanghai Institute of Technical Physics, Chinese Academy of Sciences)
+Email: zhouxiaoxuan@mail.sitp.ac.cn
