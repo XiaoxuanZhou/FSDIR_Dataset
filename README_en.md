@@ -19,7 +19,7 @@ Dataset/
 ├── Scene2_Taiwan.rar # Eastern Taiwan, China: includes ocean, cloud, and grassland scenes
 ├── Scene3_Western-China.rar # Western China: includes forest, grassland, and snow mountain scenes
 └── Scene4_Persian-Gulf.rar # Persian Gulf region: includes ocean, desert, and urban scenes
-```bash
+```
 
 - **File format**: 16-bit TIFF image sequences  
 - **Temporal resolution**: 0.2 s/frame  
