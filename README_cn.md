@@ -5,7 +5,7 @@
 - 动态场景下飞机/舰船目标的检测与跟踪
  
 - 每个场景以 `.rar` 压缩包形式存放，便于下载和管理。  
-- 数据集已在 [Zenodo](https://zenodo.org/uploads/17075534) [百度网盘]() 长期归档，并提供 DOI 供引用。
+- 数据集已在 [Zenodo](https://zenodo.org/uploads/17213990) [百度网盘](https://pan.baidu.com/s/11fGqpjKCtvAi3j83nN2hsw)提取码:DIRD. 长期归档，并提供 DOI 供引用。
 ---
 ## 📂 数据内容
 数据集结构如下：
@@ -31,10 +31,10 @@ Dataset/
 
 示例下载命令（Linux/macOS）：
 ```bash
-wget https://zenodo.org/record/xxxxx/files/Scene1_Shanghai.rar
-wget https://zenodo.org/record/xxxxx/files/Scene2_Taiwan.rar
-wget https://zenodo.org/record/xxxxx/files/Scene3_Western-China.rar
-wget https://zenodo.org/record/xxxxx/files/Scene4_Persian-Gulf.rar
+wget https://zenodo.org/record/17213990/files/Scene1_Shanghai.rar
+wget https://zenodo.org/record/17213990/files/Scene2_Taiwan.rar
+wget https://zenodo.org/record/17213990/files/Scene3_WesternChina.rar
+wget https://zenodo.org/record/17213990/files/Scene4_Persian Gulf.rar
 ```
 ---
 ## 📑 引用
