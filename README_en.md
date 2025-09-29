@@ -6,7 +6,7 @@ It is mainly designed for:
 - Detection and tracking of aircraft/ship targets in dynamic scenes  
 
 - Each scene is stored in a `.rar` archive for easy download and management.  
-- The dataset has been permanently archived on [Zenodo](https://zenodo.org/uploads/17075534) and [BaiduNetdisk](), and is assigned a DOI for citation.  
+- The dataset has been permanently archived on [Zenodo](https://zenodo.org/uploads/17213990) and [BaiduNetdisk](https://pan.baidu.com/s/11fGqpjKCtvAi3j83nN2hsw) DIRD, and is assigned a DOI for citation.  
 
 ---
 
@@ -37,10 +37,10 @@ The complete dataset can be downloaded from **Zenodo** or **BaiduNetdisk**:
 
 Example commands (Linux/macOS):
 ```bash
-wget https://zenodo.org/record/xxxxx/files/Scene1_Shanghai.rar
-wget https://zenodo.org/record/xxxxx/files/Scene2_Taiwan.rar
-wget https://zenodo.org/record/xxxxx/files/Scene3_Western-China.rar
-wget https://zenodo.org/record/xxxxx/files/Scene4_Persian-Gulf.rar
+wget https://zenodo.org/record/17213990/files/Scene1_Shanghai.rar
+wget https://zenodo.org/record/17213990/files/Scene2_Taiwan.rar
+wget https://zenodo.org/record/17213990/files/Scene3_WesternChina.rar
+wget https://zenodo.org/record/17213990/files/Scene4_Persian Gulf.rar
 ```
 ---
 ## 📑 Citation
