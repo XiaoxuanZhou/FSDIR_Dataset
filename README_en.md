@@ -6,7 +6,7 @@ It is mainly designed for:
 - Detection and tracking of aircraft/ship targets in dynamic scenes  
 
 - Each scene is stored in a `.rar` archive for easy download and management.  
-- The dataset has been permanently archived on [Zenodo Part1]([https://zenodo.org/records/17294296]) [Zenodo Part2]([https://zenodo.org/records/17213990]) or [BaiduNetdisk](https://pan.baidu.com/s/11fGqpjKCtvAi3j83nN2hsw) DIRD, and is assigned a DOI for citation.  
+- The dataset has been permanently archived on [Zenodo Part1](https://zenodo.org/records/17294296) [Zenodo Part2](https://zenodo.org/records/17213990) or [BaiduNetdisk](https://pan.baidu.com/s/11fGqpjKCtvAi3j83nN2hsw) DIRD, and is assigned a DOI for citation.  
 
 ---
 
