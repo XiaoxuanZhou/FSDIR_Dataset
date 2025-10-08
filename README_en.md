@@ -24,7 +24,7 @@ Dataset/
 - **File format**: 16-bit TIFF image sequences  
 - **Temporal resolution**: 0.2 s/frame  
 - **Spatial coverage**: ~100 km × 100 km  
-- **Additional information**: Includes metadata tables (containing target position, category, flight direction, speed, etc.)  
+- **Additional information**: Includes labels  
 
 ---
 
