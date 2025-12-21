@@ -45,7 +45,7 @@ wget https://zenodo.org/record/17213990/files/Scene4_Persian Gulf.rar
 ---
 ## 📑 Citation
 - If you use this dataset, please cite:
-
+X. Zhou, L. Li, Z. Hu, et al.Dynamic Infrared Target Dataset Based on Remote Sensing Data and Physical Modeling[J], Infrared, 2025,46(11):13-23. DOI:10.11972/j.issn.1672-8785.2025.11.003
 ---
 ## 📬 Contact
 Author: ZHOU Xiaoxuan (Shanghai Institute of Technical Physics, Chinese Academy of Sciences)
