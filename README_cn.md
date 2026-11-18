@@ -5,7 +5,7 @@
 - 动态场景下飞机/舰船目标的检测与跟踪
  
 - 每个场景以 `.rar` 压缩包形式存放，便于下载和管理。  
-- 数据集已在 [Zenodo Part1](https://zenodo.org/records/17294296) [Zenodo Part2](https://zenodo.org/records/17213990) 或 [百度网盘](https://pan.baidu.com/s/11fGqpjKCtvAi3j83nN2hsw)提取码:DIRD. 长期归档，并提供 DOI 供引用。
+- 数据集已在 [Zenodo Part1](https://zenodo.org/records/17294296) [Zenodo Part2](https://zenodo.org/records/17213990) 或 [百度网盘](https://pan.baidu.com/s/1e_p4KoZx3X4OgofeXcaH8g)提取码:DIRD. 长期归档，并提供 DOI 供引用。
 ---
 ## 📂 数据内容
 数据集结构如下：
